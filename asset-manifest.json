@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SachinNic1502/BookUsNow/static/css/main.0ccbfbbd.css",
+    "main.js": "/SachinNic1502/BookUsNow/static/js/main.567e3e41.js",
+    "static/js/453.3f098ab2.chunk.js": "/SachinNic1502/BookUsNow/static/js/453.3f098ab2.chunk.js",
+    "index.html": "/SachinNic1502/BookUsNow/index.html",
+    "main.0ccbfbbd.css.map": "/SachinNic1502/BookUsNow/static/css/main.0ccbfbbd.css.map",
+    "main.567e3e41.js.map": "/SachinNic1502/BookUsNow/static/js/main.567e3e41.js.map",
+    "453.3f098ab2.chunk.js.map": "/SachinNic1502/BookUsNow/static/js/453.3f098ab2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ccbfbbd.css",
+    "static/js/main.567e3e41.js"
+  ]
+}
